@@ -281,7 +281,7 @@ int main()
             }
         }
 
-        if(stones >= 3) 
+        if(stones > 3)
         {
             // Schiebephase
             int position;
